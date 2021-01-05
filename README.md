@@ -2,7 +2,7 @@
 
 ![](img/logo.png)
 
-**Course Date:**
+**Course Date: 1/4/2021 - 1/8/2021**
 **Name:** Arman  
 **Surname:** Tunga  
 **Email:** armantunga@gmail.com  
